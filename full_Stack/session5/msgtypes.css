@@ -1,0 +1,16 @@
+div{
+    font-size: large;
+    font-family: fantasy;
+}
+div.information{
+    color: blue;
+}
+div.warning{
+    color:yellow
+}
+div.error{
+    color:red
+}
+.information{
+    text-align: center;
+}
